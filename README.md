@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22167469/236267155-53b87403-2394-4be2-b103-eb492ad90825.png" />
+</p>
+
 # NodeReads
 NodeReads is a self-hosted audio book player built with Node.js. Easily upload audio book files, create playlists, and enjoy intuitive controls like bookmarking, speed control, and sleep timer. Ideal for those who want to host their own library and have complete control over their listening experience.
 
